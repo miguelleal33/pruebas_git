@@ -1,1 +1,2 @@
-creacion de primer archivo en nuestro repositorio
+creacion de primer archivo en nuestro repositorio 
+se modifica el archivo
